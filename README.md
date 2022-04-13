@@ -18,6 +18,8 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [GER] [Was ist Domain Storytelling?](https://www.jobpushy.de/blog/28/was-ist-domain-storytelling), 2018, M.O. Scheele
 - [KOR] [실전 도메인 스토리텔링 첫 시도](https://brunch.co.kr/@graypool/277), 2021, 안영회
 - [KOR] [도메인 스토리텔링은 무엇인가?](https://brunch.co.kr/@graypool/278), 2021, 안영회
+- [KOR] [도메인이 무엇인가요?](https://brunch.co.kr/@graypool/428), 2022, 안영회
+
 ### Video
 - [GER] [Talk at DDD Meetup Cologne](https://www.youtube.com/watch?v=FxPalV9a8fE), 2021, Stefan Hofer
 - [NOR] [Talk at Smidig Meetup in Norway about collaborative modeling "Tverrfaglig Samarbeid med Strategisk Domain-Driven Design"](https://vimeo.com/showcase/7839015/video/650554654), 2021, Mufrid Krilic
